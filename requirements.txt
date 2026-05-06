@@ -1,0 +1,9 @@
+python-dotenv
+sentence-transformers
+groq
+faiss-cpu
+requests
+kagglehub
+pandas
+pypi-json
+numpy
