@@ -71,5 +71,5 @@ TMDB 5000 Movie Dataset from Kaggle.
 
 ## Authors
 
-Yakoub Kebaili
+Yakoub Kebaili / 
 Melissa Djabella
